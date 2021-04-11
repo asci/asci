@@ -1,22 +1,21 @@
-### 👋 Hi there!
+## 👋 Hi there!
 
 I'm Artem, frontend developer. In my daily work I use **React** and **Typescript**
 
 I like coffee, photography and walks
 
-#### 📖 Books
+### 📖 Books
 
 Here are some books I like
 
-[Essentialism](https://www.goodreads.com/book/show/18077875-essentialism) — helps to understand how importan to focus, to have less thing in live, to be better on what's important
-
+[Essentialism](https://www.goodreads.com/book/show/18077875-essentialism) — helps to what to focus on
 [Atomic habits](https://www.goodreads.com/book/show/40121378-atomic-habits) — helps to understand how to develop new habits and get rid of some one might not like to have
 
 [Effective Typescript](https://www.goodreads.com/book/show/48570456-effective-typescript) — nice cookbook for common situation while developing with Typescript language
 
 
 
-#### 🎩 Projects
+### 🎩 Projects
 
 Here are some of my projects
 
@@ -28,7 +27,7 @@ Here are some of my projects
 
 
 
-#### 🌱 Learning 
+### 🌱 Learning 
 
 Immer — for more readable and error prone code while writing reducers
 
