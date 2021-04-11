@@ -9,6 +9,7 @@ I like coffee, photography and walks
 Here are some books I like
 
 [Essentialism](https://www.goodreads.com/book/show/18077875-essentialism) — helps to what to focus on
+
 [Atomic habits](https://www.goodreads.com/book/show/40121378-atomic-habits) — helps to understand how to develop new habits and get rid of some one might not like to have
 
 [Effective Typescript](https://www.goodreads.com/book/show/48570456-effective-typescript) — nice cookbook for common situation while developing with Typescript language
