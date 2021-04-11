@@ -1,12 +1,8 @@
 ### 👋 Hi there!
 
-I'm Artem, frontend developer living in Amsterdam, The Netherlands
-
-In my daily work I use **React** and **Typescript**
+I'm Artem, frontend developer. In my daily work I use **React** and **Typescript**
 
 I like coffee, photography and walks
-
-
 
 #### 📖 Books
 
