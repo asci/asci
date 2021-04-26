@@ -32,7 +32,7 @@ Here are some of my projects
 
 Immer — for more readable and error prone code while writing reducers
 
-Tailwind CSS — for styling quicker
+Github Actions — for automations
 
 <!--
 **asci/asci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
