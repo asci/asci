@@ -30,7 +30,7 @@ Here are some of my projects
 
 ### 🌱 Learning 
 
-Immer — for more readable and error prone code while writing reducers
+Web Performance — monitoring and improvements in various layers
 
 Github Actions — for automations
 
