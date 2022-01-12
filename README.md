@@ -8,12 +8,9 @@ I like coffee, photography and walks
 
 Here are some books I like
 
-[Essentialism](https://www.goodreads.com/book/show/18077875-essentialism) — helps to what to focus on
+[Effective Typescript](https://oku.club/book/effective-typescript-by-dan-vanderkam-aEUUa) — nice cookbook for common situation while developing with Typescript language
 
-[Atomic habits](https://www.goodreads.com/book/show/40121378-atomic-habits) — helps to understand how to develop new habits and get rid of some one might not like to have
-
-[Effective Typescript](https://www.goodreads.com/book/show/48570456-effective-typescript) — nice cookbook for common situation while developing with Typescript language
-
+[Designing Data-Intensive Applications](https://oku.club/book/designing-data-intensive-applications-by-martin-kleppmann-K70CZ) — nice guide on designing web applications
 
 
 ### 🎩 Projects
@@ -25,26 +22,3 @@ Here are some of my projects
 [Progress Ring](https://github.com/asci/progress-ring#readme) — react component for circle based progress indicators, zero dependencies, using SVG
 
 [React Minesweeper](https://codesandbox.io/s/react-minesweeper-18f07) — my implementation of minesweeper game, nice training for algorithims and performance optimisations
-
-
-
-### 🌱 Learning 
-
-Web Performance — monitoring and improvements in various layers
-
-Github Actions — for automations
-
-<!--
-**asci/asci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
