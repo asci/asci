@@ -1,8 +1,6 @@
 ## 👋 Hi there!
 
-I'm Artem, frontend developer. In my daily work I use **React** and **Typescript**
-
-I like coffee, photography and walks
+I'm Artem
 
 ### 📖 Books
 
